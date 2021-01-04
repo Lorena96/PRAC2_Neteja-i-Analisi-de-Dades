@@ -1,0 +1,1 @@
+# PRAC2_Neteja-i-Analisi-de-Dades
