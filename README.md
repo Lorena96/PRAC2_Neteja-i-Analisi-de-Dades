@@ -21,7 +21,6 @@ patologia de fetge?
 
 ## Metodologia
 
-
 Per tal de donar resposta a aquestes preguntes s’apliquen diferents mètodes d’anàlisi estadístic sobre el conjunt de dades tot comprovant si es compleixen les condicions necessàries per a la validesa dels resultats. Atès que els objectius definits giren al voltant d’un problema de classificació i disposem d’una variable classe de control (Diesease) farem ús d’algoritmes d’aprenentatge supervisat per tal de construir el model final de classificació. Els diferents mètodes que s’utilitzaran per a realitzar l’anàlisi estadístic són els següents:
 • Test d’hipòtesis -> Comparar mostres d’Homes/Dones i Malalts-Sans per donar resposta a les preguntes plantejades.
 • Regressió logística -> Avaluar la influència de cada variable en la probabilitat de tenir afecció de fetge i predir el valor resultant.
