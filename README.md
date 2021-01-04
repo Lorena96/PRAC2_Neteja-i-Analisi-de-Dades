@@ -1,4 +1,4 @@
-# PRAC2_Neteja-i-Analisi-de-Dades
+# PRAC2_Neteja i Anàlisi de Dades
 
 **Membres**
 
