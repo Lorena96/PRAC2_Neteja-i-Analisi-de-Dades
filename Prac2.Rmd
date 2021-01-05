@@ -352,9 +352,9 @@ p2 <- ggqqplot(agePatient, title = "Patient cases", ylab = "")
 grid.arrange(p1, p2, nrow = 1)
 
 # Realitzem el test de normalitat per les dues mostres
-print("Test de normalitat per la distribució de la mostra de botigues en zones urbanes")
+print("Test de normalitat per la distribució de la mostra d'individus sans")
 shapiro.test(ageHealthy)
-print("Test de normalitat per la distribució de la mostra de botigues en zones rurals")
+print("Test de normalitat per la distribució de la mostra d'individus malalts")
 shapiro.test(agePatient)
 ```
 
