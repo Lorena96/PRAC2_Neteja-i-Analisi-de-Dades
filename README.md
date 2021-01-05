@@ -16,8 +16,8 @@ En aquesta pràctica s’elabora un cas pràctic orientat a aprendre a identific
 
 **processed_liver.csv** -> Conjunt de dades després de la neteja i validació de dades.
 
-**PRAC2_Neteja i Anàlisi de Dades.pdf** -> Document amb les respostes a les preguntes inicials plantejades i els integrants del grup. També hi consta la taula de contribució dels integrants del grup. 
+**PRAC2_Neteja i Anàlisi de Dades.pdf** -> Document amb els integrants del grup i la taula de contribució dels integrants del grup i resum de respostes. 
 
 **PRAC2.rmd** -> Document generat amb RStudio amb el codi desenvolupat per realitzar la visualització i l'anàlisi de dades. 
 
-**PRAC2.pdf** -> Document pdf amb el resultat de l'execució de l'arxiu PRAC2.rmd
+**PRAC2.pdf** -> Document pdf de respostes amb el resultat de l'execució de l'arxiu PRAC2.rmd
